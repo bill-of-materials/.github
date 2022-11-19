@@ -15,5 +15,6 @@
   intelligence about deeper layers of the
   project by studying its details.
 ```
+![billofmaterials](/profile/bom.png)
 
 Made with love by [SCHEMATiC WiZARD](https://linktr.ee/schematicwizard)
